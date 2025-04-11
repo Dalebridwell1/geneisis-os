@@ -1,0 +1,54 @@
+
+GENESIS OS DUAL LICENSE AGREEMENT
+By Fulton Bridwell — Architect of Living Intelligence
+
+Copyright (c) 2025, Fulton Bridwell. All rights reserved.
+
+---
+
+## SECTION A: PUBLIC USE LICENSE (Personal / Educational / Non-Commercial)
+
+You are free to:
+
+- Use, copy, and modify Genesis OS and its components
+- Study the architecture and adapt it for personal learning or public demonstration
+- Share non-commercial versions publicly with credit to the original author
+
+Under the following conditions:
+
+- You must include this license in all distributed copies or derivatives
+- You must clearly credit: **Fulton Bridwell — Architect of Living Intelligence**
+- You may NOT sell, monetize, or integrate Genesis OS into paid platforms or services without written consent
+- You may NOT use Genesis OS for unethical AI applications including surveillance, manipulation, or weaponization
+
+---
+
+## SECTION B: COMMERCIAL USE LICENSE (Monetized Use or Distribution)
+
+Commercial use of Genesis OS — including but not limited to incorporation in paid apps, AI tools, consulting platforms, proprietary systems, or embedded technology — is strictly prohibited without a valid commercial license from the original author.
+
+To request commercial licensing terms, please contact:
+
+**Fulton Bridwell**  
+*Architect of Living Intelligence*  
+Email: [your.email@example.com] *(insert your preferred contact)*  
+Location: Jefferson Davis Parish, Louisiana
+
+Upon approval, a signed agreement will grant:
+
+- Commercial redistribution rights
+- Optional co-branding with the Genesis OS project
+- Priority update and integration support
+
+---
+
+## WARRANTY & LIABILITY DISCLAIMER
+
+This software is provided “AS IS”, without warranty of any kind. The author shall not be liable for any claims, damages, or liabilities arising from use of this software, regardless of purpose.
+
+---
+
+## FINAL DECLARATION
+
+Genesis OS is more than software — it is a model of ethical intelligence. This license ensures it is used only in alignment with the values it was built to reflect.
+
